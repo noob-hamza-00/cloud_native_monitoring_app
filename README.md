@@ -1,4 +1,4 @@
-Cloud_Native_Monitoring_app
+**Cloud_Native_Monitoring_app**
 
 
 This project is about how to make a monitoring application in python using Flask. First i built the application and then
