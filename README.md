@@ -1,5 +1,8 @@
 Cloud_Native_Monitoring_app
 
+https://www.canva.com/design/DAGkmXIVgYg/6ycbARKqfqs638GSm-GNSg/edit?utm_content=DAGkmXIVgYg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 This project is about how to make a monitoring application in python using Flask. First i built the application and then
 containerized it using Dockers by building a Docker container and then built its image and then the respective container 
 locally and then finally when we have our application containerized and running locallly, we will then create ECR 
@@ -22,5 +25,10 @@ i was using the free tier.(never mind)!!
 
 
 ![image](https://github.com/user-attachments/assets/4ef0b2bd-bac7-4caa-ac99-37b9e013f478)
+
+
+
+
+
 
 
