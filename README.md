@@ -1,7 +1,5 @@
 Cloud_Native_Monitoring_app
 
-https://www.canva.com/design/DAGkmXIVgYg/6ycbARKqfqs638GSm-GNSg/edit?utm_content=DAGkmXIVgYg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 
 This project is about how to make a monitoring application in python using Flask. First i built the application and then
 containerized it using Dockers by building a Docker container and then built its image and then the respective container 
@@ -12,6 +10,11 @@ Basically we create the deployment nad service using python so that our applicat
 which was deployed using kubernetes.
 
 ![image](https://github.com/user-attachments/assets/2c92d7ec-871d-4aa9-9915-211692b06b1a)
+
+
+
+https://www.canva.com/design/DAGkmXIVgYg/6ycbARKqfqs638GSm-GNSg/edit?utm_content=DAGkmXIVgYg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 
 
